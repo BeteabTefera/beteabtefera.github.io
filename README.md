@@ -1,5 +1,5 @@
-                               Weather-app using API information from openweathermap.org
-                               Site: https://beteabtefera.github.io/weather-app/
+ # Weather-app
+ [Click here for site](https://beteabtefera.github.io/weather-app/)
 ![image](https://user-images.githubusercontent.com/88134569/190706103-36273779-80c2-4831-a020-9b60ab128bc3.png)
 
 ![image](https://user-images.githubusercontent.com/88134569/190706735-2f46a38b-1230-4288-947f-5e2a1653c408.png)
