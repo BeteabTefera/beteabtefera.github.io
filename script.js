@@ -35,7 +35,6 @@ let weather = {
         document.querySelector(".windspeed").innerText = "Wind Speed: " + speed + " mph";
         document.querySelector(".feelslike").innerText = "Feels Like: " + Math.round(feels_like) + " °F";
         document.querySelector(".weather").classList.remove("loading");
-        document.body.style.backgroundImage = "url('https:/source.unsplash.com/3200x2400/?"+ name +"')"
     },
 
     search: function() {
